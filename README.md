@@ -1,8 +1,9 @@
 # 🌍 DoaAí — Donation Management Platform
 
-**DoaAí** is a complete and functional web platform designed to connect donors with social institutions such as NGOs and churches. The system allows users to **schedule donation deliveries**, **browse donation catalogs**, and **manage donations** efficiently and securely.
+**DoaAí** is a complete and functional web platform designed to connect donors with social institutions such as NGOs and churches.  
+The system allows users to **schedule donation deliveries**, **browse donation catalogs**, and **manage donations** efficiently and securely.
 
-This project was developed as part of the **Web Software Development course** at **Federal University of Ceará — Campus Quixadá**.
+This project was developed as part of the **Web Software Development course** at the **Federal University of Ceará — Campus Quixadá**.
 
 ---
 
@@ -15,7 +16,7 @@ Through an intuitive and modern interface, users can:
 - Schedule specific dates to deliver donations to registered NGOs and churches.  
 - Choose between donating **clothes** or **food items**.  
 - Browse through:
-  - A **general catalog** of donations.
+  - A **general catalog** of donations.  
   - An **institution-specific catalog** for each NGO or church.  
 - Recover forgotten passwords through a **fully functional email recovery system**.  
 
@@ -40,11 +41,11 @@ Although the system is **fully functional**, it is **not currently deployed onli
 
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | HTML, CSS, JavaScript, React (or specify framework used) |
+| **Frontend** | HTML, CSS, JavaScript, React |
 | **Backend** | Node.js, Express |
-| **Database** | MySQL / PostgreSQL (specify if applicable) |
+| **Database** | MySQL / PostgreSQL |
 | **Authentication** | JWT (JSON Web Token) |
-| **Email Services** | Nodemailer (or service used for recovery emails) |
+| **Email Services** | Nodemailer |
 
 ---
 
@@ -58,7 +59,7 @@ Although the system is **fully functional**, it is **not currently deployed onli
 
 ## 🚀 Future Improvements
 
-- Deployment to a cloud platform (e.g., Vercel, Render, or AWS).  
+- Deployment to a cloud platform (e.g., **Vercel**, **Render**, or **AWS**).  
 - Adding donation tracking and progress visualization.  
 - Implementing push/email notifications for upcoming scheduled donations.  
 
@@ -73,8 +74,9 @@ It showcases our understanding of modern web development, authentication, and us
 
 ## 🎨 Design Prototype
 
-You can view the full design prototype on Figma:  
-👉 [DoaAí — Figma Project](https://www.figma.com/design/rRFR8xcrlKWd5uSATEqAq9/DoaA%C3%AD?node-id=0-1&p=f)
+You can view the full design prototype on Figma below:  
+
+🎨 **[DoaAí — Figma Project](https://www.figma.com/design/rRFR8xcrlKWd5uSATEqAq9/DoaA%C3%AD?node-id=0-1&p=f)**
 
 ---
 
@@ -82,16 +84,17 @@ You can view the full design prototype on Figma:
 
 | Name | Role |
 |------|------|
-| [Your Name Here] | Full Stack Developer |
-| [Teammate 1] | Frontend Developer |
-| [Teammate 2] | Backend Developer |
-| [Teammate 3] | UI/UX Designer |
+| **Lafuente Paulino da Silva** | Backend Developer |
+| **[Kauan Pablo](https://github.com/auanK)** | Backend Developer |
+| **[Maria Eduarda Bastos](https://github.com/mariaebastos)** | Frontend Developer |
+| **Arthur** | Frontend Developer |
+| **[Robeth Ravell](https://github.com/roberthravell)** | UI/UX Designer |
 
 ---
 
 ## 📄 License
 
 This project is part of an academic extension program and is **not licensed for commercial use**.  
-All rights reserved © 2025 — Federal University of Ceará, Campus Quixadá.
+All rights reserved © 2025 — **Federal University of Ceará, Campus Quixadá**.
 
 ---
